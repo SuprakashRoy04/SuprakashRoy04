@@ -1,9 +1,4 @@
 
-#👋 Hey, I'm Suprakash Roy — blending Intelligence with Innovation!
-
-🎯 AI/ML Enthusiast | 📊 Data Science Explorer | 💡 Problem Solver
-
-
 # 💫 About Me:
 🔭  Final Year B.Tech CSE - Data Science<br>🧠 Passionate about turning Data into Decisions<br>🎨 Content Writing internship @ GeeksforGeeks<br>🎨 Graphics and Content Lead @ GDG_TMSL<br>🎨Tech Co-lead @ GFG_TMSL<br>🧠 Learning: Big Data, Data Analysis, Moto of Life<br>📖 Read | 🎵 Music Lover
 
